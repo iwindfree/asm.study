@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven 3.6.3
+Boot-Class-Path: asm.lib-1.0-SNAPSHOT.jar
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Premain-Class: io.windfree.asm.JavaAgent
+Agent-Class: io.windfree.asm.JavaAgent
